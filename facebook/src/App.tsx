@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import Login from './pages/login/Login';
 import './App.scss';
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css"
+import WaterMark from './components/water-mark/WaterMark';
 import {
   BrowserRouter,
   Routes,
@@ -24,6 +25,7 @@ function App() {
           </Route>
         </Routes>
       </BrowserRouter>
+      <WaterMark/>
     </div>
   );
 }
