@@ -1,0 +1,50 @@
+[
+  {
+    "id": 8,
+    "name": "Beyond the Shadows",
+    "authorId": 3,
+    "_id": "8eb84a1a889945cd8974108593bef1c9"
+  },
+  {
+    "id": 7,
+    "name": "The Way of Shadows",
+    "authorId": 3,
+    "_id": "76bd9e87406f4da1bf3e80755103b603"
+  },
+  {
+    "id": 6,
+    "name": "The Return of the King",
+    "authorId": 2,
+    "_id": "7fd69c956fd74e8f8813ae5959a180db"
+  },
+  {
+    "id": 5,
+    "name": "The Two Towers",
+    "authorId": 2,
+    "_id": "86949cf25b45425db174d6d2465b14fb"
+  },
+  {
+    "id": 4,
+    "name": "The Fellowship of the Ring",
+    "authorId": 2,
+    "_id": "19acaef32afb41099d1dd53c4f8e7ea2"
+  },
+  {
+    "id": 3,
+    "name": "Harry Potter and the Goblet of Fire",
+    "authorId": 1,
+    "_id": "1feda952e8ee44818c3ddde75af051f6"
+  },
+  {
+    "id": 2,
+    "name": "Harry Potter and the Prisoner of Azkaban",
+    "authorId": 1,
+    "_id": "a046c4ffb4334462b1c7de88b36b7544"
+  },
+  {
+    "id": 1,
+    "name": "Harry Potter and the Chamber of Secrets",
+    "authorId": 1,
+    "_id": "30c4596958fb4006b93511f273ff75fe"
+  }
+]
